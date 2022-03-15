@@ -1,4 +1,4 @@
-.box h2{
+ .subtitle{
     font-family: 'Press Start 2P', cursive;
     font-size: 30px;
     font-weight: 400;
@@ -6,3 +6,4 @@
     text-shadow: 5px 5px 0 black;
     
 }
+
