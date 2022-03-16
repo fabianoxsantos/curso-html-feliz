@@ -1,0 +1,23 @@
+.wrapper-skills{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    height: 500px;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.wrapper-skills .skills-tec {
+    width: 480px;
+}
+
+.wrapper-skills .icon {
+    margin-right: 25px;
+    width: 90px;
+}
+
+.wrapper-skills .progress-bar {
+    width: 320px;
+}
