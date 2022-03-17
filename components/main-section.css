@@ -1,4 +1,4 @@
-.section {
+.main-section {
     background-color: #E362BA;
     padding-top: 50px;
     padding-bottom: 100px ;
@@ -6,11 +6,11 @@
     
 }
 
-.section .main-title{
+.main-section .main-title{
     margin-bottom: 60px;
 }
 
-.section.-card{
+.main-section.-card{
     background-color: black;
     height: 520px;
     border-bottom: 10px solid #E362BA;
