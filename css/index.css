@@ -16,27 +16,7 @@ nav{
 
 }
 
-a{ 
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    font-family:'Fira Code', monospace;
-    color: white;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: 500;
-    margin-right:  30px;
 
-}
-a::before{
-    content: "";
-    background-color: #e051b3
-    ;
-    width: 10px;
-    height: 10px;
-    margin-right: 10px;
-    
-}
 
 
 
