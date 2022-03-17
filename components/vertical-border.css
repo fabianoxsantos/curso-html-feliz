@@ -1,0 +1,5 @@
+.vertical-border{
+    border: 2px dashed black;
+    transform: rotate(90deg);
+    width: 41px;
+}

@@ -1,0 +1,11 @@
+.title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    
+} 
+
+.title.color{
+    color: #F25A70;
+}

@@ -1,0 +1,11 @@
+.card-carrousel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #CEB02A;
+    border: 5px solid black;
+    width: 220px;
+    height: 140px;
+    
+    
+}
