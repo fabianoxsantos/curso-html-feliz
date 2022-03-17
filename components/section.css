@@ -9,3 +9,9 @@
 .section .main-title{
     margin-bottom: 60px;
 }
+
+.section.-card{
+    background-color: black;
+    height: 520px;
+
+}
