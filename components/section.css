@@ -13,5 +13,6 @@
 .section.-card{
     background-color: black;
     height: 520px;
+    border-bottom: 10px solid #E362BA;
 
 }
