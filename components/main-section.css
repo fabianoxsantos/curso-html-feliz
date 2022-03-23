@@ -23,3 +23,11 @@
     border-bottom: 10px solid black;
 
 }
+
+.main-section.-bdcolor{
+    border-bottom: 10px solid #000000;
+}
+
+.main-section.-bgcolor{
+    background-color: #8780E9;
+}
