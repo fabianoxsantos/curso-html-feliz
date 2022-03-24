@@ -1,0 +1,41 @@
+.node-card{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+   
+}
+
+.node-card::before{
+    content: '';
+    border: 2px dashed black;
+    width: 30px;
+    transform: rotate(90deg) translateX(55px); 
+}
+
+.node-card .title{
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+    margin-bottom: 50px;
+
+}
+
+.node-card .logo{
+    display: flex;
+    align-items: center;
+    background-color: #ceb02a;
+    height: 140px;
+    border: 5px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.node-card .-clean {
+   padding: 0;
+}
+
+.node-card .-first{
+    background-color: #f25a70;
+ }
