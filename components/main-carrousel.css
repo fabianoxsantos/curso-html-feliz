@@ -10,11 +10,22 @@
     content: '';
     display: block;
     position: absolute;
-    left: 0;
+    left: 50px;
     top: 40px;
     height: 5px;
+    width: calc(100% - 100px);
+    border-top: 5px solid rgb(0, 0, 0);
+
+}
+
+.main-carrousel::before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 40px;
     width: 100%;
-    background-color: black;
+    border-top: 5px dashed rgb(0, 0, 0);
 
 }
 
